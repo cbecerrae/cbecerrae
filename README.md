@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cloud projects and DevOps initiatives.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristhian-becerra-espinoza/)
 - 🥇 Check out my credentials: [Credly](https://www.credly.com/users/cristhian-becerra-espinoza)
-- ⚡ Fun fact: I'm an AWS Certified Solutions Architect – Professional!
+- ⚡ Fun fact: I'm an AWS Golden Jacket!
 
 <!---
 cbecerrae/cbecerrae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
